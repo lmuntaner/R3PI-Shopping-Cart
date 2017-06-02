@@ -16,6 +16,8 @@ This is the Coding Exercise for R3PI Application Process.
 
 ### How to run
 
+**You’ll need to have Node >= 6 on your machine**
+
 1. Clone the repo
 2. Install dependencies by running: `npm install`
 3. Start the app: `npm start`
